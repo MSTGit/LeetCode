@@ -9,7 +9,7 @@ public class Implement {
     /*
     * 使用哈希表来保存遍历过的数据
     * */
-    public int[] twoSum(int[] nums, int target) {
+    public int[] twoSum2(int[] nums, int target) {
 
         /*
         * 例如数组中元素为 [1,5,9,6,4] 其中target为7
